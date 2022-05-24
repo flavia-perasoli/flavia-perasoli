@@ -1,7 +1,6 @@
 Olá! Meu nome é Flávia
-- 🌼 Atualmente trabalho com Front-End
+- 🍄  Atualmente trabalho com Front-End
 - 🌱 Estudando HTML, Java Script e CSS
-- 🍄 Pronomes: ela/dela
 </div>
 
 <div style="display: inline_block"><br>
